@@ -1,0 +1,92 @@
+﻿## Ignore Visual Studio temporary files, build results, and user-generated files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# Uncomment if you have tasks that create the project's packages directory
+# packages/
+
+# Visual Studio cache files
+.vs/
+.vscode/
+
+# MSBuild Binary and Log files
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.tlog
+*.log
+*.vspscc
+*.vssscc
+
+# Rider IDE
+.idea/
+
+# DotCover
+*.dotCover
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Web Projects
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Tye
+.tye/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Azure Functions
+local.settings.json
+
+# Docker
+**/.dockerignore
+**/Dockerfile*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Logs
+*.log
+
+# Others
+_ReSharper*/
